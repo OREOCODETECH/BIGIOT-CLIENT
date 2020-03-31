@@ -19,3 +19,10 @@ WARNING:WRITE THIS FIRMWARE WILL FORMAT ALL CONTENT AND SETTINGS IN ESP8266,MAKE
 8.Visit ESP8266 new IP address in browser.<br/>
 9.If all settings are correct,you should able to get "Device Checkin" status is "true" in Status page.
 -In "status" page,you can get ESP8266 working details.<br/>
+<br/>Credits<br/>
+A huge thanks to :<br/>
+<a href="https://github.com/spacehuhn" target="_blank">@spacehuhn</a>
+<br/>for GitHub open source code project!<br/>
+<br/>
+This project reference source code from these project:<br/>
+<a href="https://github.com/spacehuhn/esp8266_deauther" target="_blank">esp8266_deauther</a>    CSS / JavaScript / HTML<br/>
